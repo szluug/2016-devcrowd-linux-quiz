@@ -49,4 +49,4 @@ sudo do-release-upgrade
 LibreOffice, OpenOffice
 
 ### 14. Imię maskotki FreeBSD
-Beastie
+Beast opcjonalnie uznawałem Demon.
